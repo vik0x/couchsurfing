@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "full_name": "John Doe",
+    "phone": "1-998-123-4567",
+    "email": "john.doe@example.com",
+    "friends": []
+  },
+  {
+    "id": 2,
+    "full_name": "Jane Smith",
+    "phone": "1-998-234-5678",
+    "email": "jane.smith@example.com",
+    "friends": [1,3,6,7,8]
+  },
+  {
+    "id": 3,
+    "full_name": "Michael Johnson",
+    "phone": "1-998-345-6789",
+    "email": "michael.johnson@example.com",
+    "friends": [1,2,4,9]
+  },
+  {
+    "id": 4,
+    "full_name": "Emily Brown",
+    "phone": "1-998-456-7890",
+    "email": "emily.brown@example.com",
+    "friends": [1,3,10]
+  },
+  {
+    "id": 5,
+    "full_name": "William Taylor",
+    "phone": "1-998-567-8901",
+    "email": "william.taylor@example.com",
+    "friends": [1,6,11]
+  },
+  {
+    "id": 6,
+    "full_name": "Emma Martinez",
+    "phone": "1-998-678-9012",
+    "email": "emma.martinez@example.com",
+    "friends": [2,5,7,12]
+  },
+  {
+    "id": 7,
+    "full_name": "Matthew Anderson",
+    "phone": "1-998-789-0123",
+    "email": "matthew.anderson@example.com",
+    "friends": [2,6,8,13]
+  },
+  {
+    "id": 8,
+    "full_name": "Olivia Thomas",
+    "phone": "1-998-890-1234",
+    "email": "olivia.thomas@example.com",
+    "friends": [2,7,9,14]
+  },
+  {
+    "id": 9,
+    "full_name": "David Hernandez",
+    "phone": "1-998-901-2345",
+    "email": "david.hernandez@example.com",
+    "friends": [3,8,10,15]
+  },
+  {
+    "id": 10,
+    "full_name": "Sophia Mitchell",
+    "phone": "1-998-012-3456",
+    "email": "sophia.mitchell@example.com",
+    "friends": [4,9,16]
+  },
+  {
+    "id": 11,
+    "full_name": "James Walker",
+    "phone": "1-998-123-4567",
+    "email": "james.walker@example.com",
+    "friends": [5,12,17]
+  },
+  {
+    "id": 12,
+    "full_name": "Isabella Perez",
+    "phone": "1-998-234-5678",
+    "email": "isabella.perez@example.com",
+    "friends": [6,11,13,18]
+  },
+  {
+    "id": 13,
+    "full_name": "Benjamin King",
+    "phone": "1-998-345-6789",
+    "email": "benjamin.king@example.com",
+    "friends": [7,12,14,19]
+  },
+  {
+    "id": 14,
+    "full_name": "Amelia Young",
+    "phone": "1-998-456-7890",
+    "email": "amelia.young@example.com",
+    "friends": [8,13,15,20]
+  },
+  {
+    "id": 15,
+    "full_name": "Lucas Scott",
+    "phone": "1-998-567-8901",
+    "email": "lucas.scott@example.com",
+    "friends": [9,14,16,21]
+  },
+  {
+    "id": 16,
+    "full_name": "Mia Nguyen",
+    "phone": "1-998-678-9012",
+    "email": "mia.nguyen@example.com",
+    "friends": [10,15,17,22]
+  },
+  {
+    "id": 17,
+    "full_name": "Ethan Hill",
+    "phone": "1-998-789-0123",
+    "email": "ethan.hill@example.com",
+    "friends": [11,16,18,23]
+  },
+  {
+    "id": 18,
+    "full_name": "Harper Flores",
+    "phone": "1-998-890-1234",
+    "email": "harper.flores@example.com",
+    "friends": [12,17,19,24]
+  },
+  {
+    "id": 19,
+    "full_name": "Alexander Green",
+    "phone": "1-998-901-2345",
+    "email": "alexander.green@example.com",
+    "friends": [13,18,20,25]
+  },
+  {
+    "id": 20,
+    "full_name": "Charlotte Adams",
+    "phone": "1-998-012-3456",
+    "email": "charlotte.adams@example.com",
+    "friends": [14,19,21,26]
+  },
+  {
+    "id": 21,
+    "full_name": "Daniel Baker",
+    "phone": "1-998-123-4567",
+    "email": "daniel.baker@example.com",
+    "friends": [15,20]
+  },
+  {
+    "id": 22,
+    "full_name": "Luna Ramirez",
+    "phone": "1-998-234-5678",
+    "email": "luna.ramirez@example.com",
+    "friends": [16,23,27]
+  },
+  {
+    "id": 23,
+    "full_name": "Jackie Carter",
+    "phone": "1-998-345-6789",
+    "email": "jackie.carter@example.com",
+    "friends": [17,22,24,28]
+  },
+  {
+    "id": 24,
+    "full_name": "Noah Torres",
+    "phone": "1-998-456-7890",
+    "email": "noah.torres@example.com",
+    "friends": [18,23,25,29]
+  },
+  {
+    "id": 25,
+    "full_name": "Ava Flores",
+    "phone": "1-998-567-8901",
+    "email": "ava.flores@example.com",
+    "friends": [19,24,26,30]
+  },
+  {
+    "id": 26,
+    "full_name": "Ryan Martinez",
+    "phone": "1-998-678-9012",
+    "email": "ryan.martinez@example.com",
+    "friends": [20,25,31]
+  },
+  {
+    "id": 27,
+    "full_name": "Sophie King",
+    "phone": "1-998-789-0123",
+    "email": "sophie.king@example.com",
+    "friends": [22,28,32]
+  },
+  {
+    "id": 28,
+    "full_name": "Henry Young",
+    "phone": "1-998-890-1234",
+    "email": "henry.young@example.com",
+    "friends": [23,27,29,33]
+  },
+  {
+    "id": 29,
+    "full_name": "Chloe Lee",
+    "phone": "1-998-901-2345",
+    "email": "chloe.lee@example.com",
+    "friends": [24,28,30,34]
+  },
+  {
+    "id": 30,
+    "full_name": "Logan Adams",
+    "phone": "1-998-012-3456",
+    "email": "logan.adams@example.com",
+    "friends": [25,29,35]
+  },
+  {
+    "id": 31,
+    "full_name": "Bella Mitchell",
+    "phone": "1-998-123-4567",
+    "email": "bella.mitchell@example.com",
+    "friends": [26,32,36]
+  },
+  {
+    "id": 32,
+    "full_name": "Elijah Hill",
+    "phone": "1-998-234-5678",
+    "email": "elijah.hill@example.com",
+    "friends": [27,31,33,37]
+  },
+  {
+    "id": 33,
+    "full_name": "Zoe Flores",
+    "phone": "1-998-345-6789",
+    "email": "zoe.flores@example.com",
+    "friends": [28,32,34,38]
+  },
+  {
+    "id": 34,
+    "full_name": "Eli Carter",
+    "phone": "1-998-456-7890",
+    "email": "eli.carter@example.com",
+    "friends": [29,33,35,39]
+  },
+  {
+    "id": 35,
+    "full_name": "Avery Lee",
+    "phone": "1-998-567-8901",
+    "email": "avery.lee@example.com",
+    "friends": [30,34,40]
+  },
+  {
+    "id": 36,
+    "full_name": "Liam Ramirez",
+    "phone": "1-998-678-9012",
+    "email": "liam.ramirez@example.com",
+    "friends": [31,37,41]
+  },
+  {
+    "id": 37,
+    "full_name": "Mila Thomas",
+    "phone": "1-998-789-0123",
+    "email": "mila.thomas@example.com",
+    "friends": [32,36,38,42]
+  },
+  {
+    "id": 38,
+    "full_name": "Carter Baker",
+    "phone": "1-998-890-1234",
+    "email": "carter.baker@example.com",
+    "friends": [33,37,39,43]
+  },
+  {
+    "id": 39,
+    "full_name": "Hannah King",
+    "phone": "1-998-901-2345",
+    "email": "hannah.king@example.com",
+    "friends": [34,38,40,44]
+  },
+  {
+    "id": 40,
+    "full_name": "Lucas Martinez",
+    "phone": "1-998-012-3456",
+    "email": "lucas.martinez@example.com",
+    "friends": [35,39,45]
+  },
+  {
+    "id": 41,
+    "full_name": "Stella Baker",
+    "phone": "1-998-123-4567",
+    "email": "stella.baker@example.com",
+    "friends": [36,42,46]
+  },
+  {
+    "id": 42,
+    "full_name": "Jackson Nguyen",
+    "phone": "1-998-234-5678",
+    "email": "jackson.nguyen@example.com",
+    "friends": [37,41,43,47]
+  },
+  {
+    "id": 43,
+    "full_name": "Liam Scott",
+    "phone": "1-998-345-6789",
+    "email": "liam.scott@example.com",
+    "friends": [38,42,44,48]
+  },
+  {
+    "id": 44,
+    "full_name": "Sophia Clark",
+    "phone": "1-998-456-7890",
+    "email": "sophia.clark@example.com",
+    "friends": [39,43,45,49]
+  },
+  {
+    "id": 45,
+    "full_name": "Oliver Perez",
+    "phone": "1-998-567-8901",
+    "email": "oliver.perez@example.com",
+    "friends": [40,44,50]
+  },
+  {
+    "id": 46,
+    "full_name": "Grace Morris",
+    "phone": "1-998-678-9012",
+    "email": "grace.morris@example.com",
+    "friends": [41,47]
+  },
+  {
+    "id": 47,
+    "full_name": "Sebastian Adams",
+    "phone": "1-998-789-0123",
+    "email": "sebastian.adams@example.com",
+    "friends": [42,46,48]
+  },
+  {
+    "id": 48,
+    "full_name": "Aria Wood",
+    "phone": "1-998-890-1234",
+    "email": "aria.wood@example.com",
+    "friends": [43,47,49]
+  },
+  {
+    "id": 49,
+    "full_name": "Leo Mitchell",
+    "phone": "1-998-901-2345",
+    "email": "leo.mitchell@example.com",
+    "friends": [44,48,50]
+  },
+  {
+    "id": 50,
+    "full_name": "Mila Davis",
+    "phone": "1-998-012-3456",
+    "email": "mila.davis@example.com",
+    "friends": [45,49]
+  }
+]
